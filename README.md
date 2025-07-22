@@ -1,6 +1,6 @@
 # Macro Hotkey
 
-A Macro made in Python that automatically presses a keyboard key at a specified interval. 
+A Simple Macro made in Python that automatically presses a keyboard key at a specified interval. 
 
 ## Instructions
 
