@@ -57,7 +57,7 @@ def on_close():
 
 # GUI Setup
 root = tk.Tk()
-root.title("Key Macro Spammer")
+root.title("Key Macro")
 root.geometry("280x240")
 root.resizable(False, False)
 
