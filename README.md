@@ -9,7 +9,7 @@ A Macro made in Python that automatically presses a keyboard key at a specified 
 
 ```bash
 pip install keyboard
-'''
+```
 
 3. Run the program
 
